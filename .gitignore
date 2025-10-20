@@ -1,0 +1,11 @@
+# OS junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+sft/gpt.pt
